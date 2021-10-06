@@ -6,17 +6,16 @@ You can click the Preview link to take a look at your changes.
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/manav-arora-0090b5202/">
-  <p align="centre"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ManavArora26&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt="ManavArora26" /> </p>
   <img align="left" alt="Manav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/imanavarora/">
   <img align="left" alt="Manav's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=ManavArora26.ManavArora26)
 <br />
 
-Hi, I'm Manav Arora, sophomore at MAIT and a passionate Flutter Developer, Competitive coder and Android development enthusiat 🚀 from India.
+Hi, I'm Manav Arora, penultimate year student at at MAIT and a passionate Game Developer, Coder and Android development enthusiat 🚀 from India.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
